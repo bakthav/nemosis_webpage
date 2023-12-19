@@ -1,0 +1,242 @@
+[debug] [2023-12-19T07:59:29.336Z] ----------------------------------------------------------------------
+[debug] [2023-12-19T07:59:29.338Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Admin\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-12-19T07:59:29.339Z] CLI Version:   10.9.2
+[debug] [2023-12-19T07:59:29.339Z] Platform:      win32
+[debug] [2023-12-19T07:59:29.339Z] Node Version:  v16.16.0
+[debug] [2023-12-19T07:59:29.340Z] Time:          Tue Dec 19 2023 13:29:29 GMT+0530 (India Standard Time)
+[debug] [2023-12-19T07:59:29.340Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-12-19T07:59:29.347Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-12-19T07:59:29.348Z] > authorizing via signed-in user (baktha88@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  E:\Other Projects\git-repo\nemosis_website\nemosis_website
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2023-12-19T07:59:40.580Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects pageSize=100
+[debug] [2023-12-19T07:59:41.198Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects 200
+[debug] [2023-12-19T07:59:41.198Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects [omitted]
+[debug] [2023-12-19T08:00:11.292Z] ----------------------------------------------------------------------
+[debug] [2023-12-19T08:00:11.293Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Admin\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-12-19T08:00:11.294Z] CLI Version:   10.9.2
+[debug] [2023-12-19T08:00:11.294Z] Platform:      win32
+[debug] [2023-12-19T08:00:11.294Z] Node Version:  v16.16.0
+[debug] [2023-12-19T08:00:11.295Z] Time:          Tue Dec 19 2023 13:30:11 GMT+0530 (India Standard Time)
+[debug] [2023-12-19T08:00:11.295Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-12-19T08:00:11.303Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-12-19T08:00:11.303Z] > authorizing via signed-in user (baktha88@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  E:\Other Projects\git-repo\nemosis_website\nemosis_website
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[info] i  If you want to create a project in a Google Cloud organization or folder, please use "firebase projects:create" instead, and return to this command when you've created the project. 
+[debug] [2023-12-19T08:00:44.864Z] ----------------------------------------------------------------------
+[debug] [2023-12-19T08:00:44.866Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Admin\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-12-19T08:00:44.866Z] CLI Version:   10.9.2
+[debug] [2023-12-19T08:00:44.866Z] Platform:      win32
+[debug] [2023-12-19T08:00:44.867Z] Node Version:  v16.16.0
+[debug] [2023-12-19T08:00:44.867Z] Time:          Tue Dec 19 2023 13:30:44 GMT+0530 (India Standard Time)
+[debug] [2023-12-19T08:00:44.868Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-12-19T08:00:44.875Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-12-19T08:00:44.875Z] > authorizing via signed-in user (baktha88@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  E:\Other Projects\git-repo\nemosis_website\nemosis_website
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2023-12-19T08:02:13.834Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects pageSize=100
+[debug] [2023-12-19T08:02:14.536Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects 200
+[debug] [2023-12-19T08:02:14.536Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects [omitted]
+[debug] [2023-12-19T08:02:30.281Z] ----------------------------------------------------------------------
+[debug] [2023-12-19T08:02:30.283Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Admin\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-12-19T08:02:30.284Z] CLI Version:   10.9.2
+[debug] [2023-12-19T08:02:30.284Z] Platform:      win32
+[debug] [2023-12-19T08:02:30.284Z] Node Version:  v16.16.0
+[debug] [2023-12-19T08:02:30.285Z] Time:          Tue Dec 19 2023 13:32:30 GMT+0530 (India Standard Time)
+[debug] [2023-12-19T08:02:30.285Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-12-19T08:02:30.293Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-12-19T08:02:30.293Z] > authorizing via signed-in user (baktha88@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  E:\Other Projects\git-repo\nemosis_website\nemosis_website
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2023-12-19T08:02:41.211Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/availableProjects pageSize=100
+[debug] [2023-12-19T08:02:44.066Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/availableProjects 200
+[debug] [2023-12-19T08:02:44.066Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/availableProjects [omitted]
+[debug] [2023-12-19T08:03:01.433Z] ----------------------------------------------------------------------
+[debug] [2023-12-19T08:03:01.435Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Admin\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-12-19T08:03:01.435Z] CLI Version:   10.9.2
+[debug] [2023-12-19T08:03:01.436Z] Platform:      win32
+[debug] [2023-12-19T08:03:01.436Z] Node Version:  v16.16.0
+[debug] [2023-12-19T08:03:01.437Z] Time:          Tue Dec 19 2023 13:33:01 GMT+0530 (India Standard Time)
+[debug] [2023-12-19T08:03:01.437Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-12-19T08:03:01.445Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-12-19T08:03:01.445Z] > authorizing via signed-in user (baktha88@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  E:\Other Projects\git-repo\nemosis_website\nemosis_website
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2023-12-19T08:05:20.915Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects pageSize=100
+[debug] [2023-12-19T08:05:21.743Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects 200
+[debug] [2023-12-19T08:05:21.743Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects [omitted]
+[debug] [2023-12-19T08:05:34.391Z] ----------------------------------------------------------------------
+[debug] [2023-12-19T08:05:34.393Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Admin\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-12-19T08:05:34.393Z] CLI Version:   10.9.2
+[debug] [2023-12-19T08:05:34.394Z] Platform:      win32
+[debug] [2023-12-19T08:05:34.394Z] Node Version:  v16.16.0
+[debug] [2023-12-19T08:05:34.395Z] Time:          Tue Dec 19 2023 13:35:34 GMT+0530 (India Standard Time)
+[debug] [2023-12-19T08:05:34.395Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-12-19T08:05:34.402Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-12-19T08:05:34.403Z] > authorizing via signed-in user (baktha88@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  E:\Other Projects\git-repo\nemosis_website\nemosis_website
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[info] i  If you want to create a project in a Google Cloud organization or folder, please use "firebase projects:create" instead, and return to this command when you've created the project. 
+[debug] [2023-12-19T08:06:16.057Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2023-12-19T08:06:16.058Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
+ <request body omitted>
+[debug] [2023-12-19T08:06:16.433Z] <<< HTTP RESPONSE 200 {"cache-control":"no-cache, no-store, max-age=0, must-revalidate","expires":"Mon, 01 Jan 1990 00:00:00 GMT","date":"Tue, 19 Dec 2023 08:06:14 GMT","pragma":"no-cache","content-type":"application/json; charset=utf-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","server":"scaffolding on HTTPServer2","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","alt-svc":"h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000","accept-ranges":"none","transfer-encoding":"chunked"}
+[debug] [2023-12-19T08:06:16.453Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects  
+ {"projectId":"nemosis_website","name":"2"}
+[debug] [2023-12-19T08:06:18.081Z] <<< HTTP RESPONSE 400 {"vary":"X-Origin, Referer, Origin,Accept-Encoding","content-type":"application/json; charset=UTF-8","date":"Tue, 19 Dec 2023 08:06:16 GMT","server":"ESF","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","server-timing":"gfet4t7; dur=1162","alt-svc":"h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000","accept-ranges":"none","transfer-encoding":"chunked"}
+[debug] [2023-12-19T08:06:18.081Z] <<< HTTP RESPONSE BODY {"error":{"code":400,"message":"Request contains an invalid argument.","status":"INVALID_ARGUMENT","details":[{"@type":"type.googleapis.com/google.rpc.BadRequest","fieldViolations":[{"field":"project_id","description":"project_id contains invalid characters"},{"field":"display_name","description":"project display name must be at least 4 characters"}]},{"@type":"type.googleapis.com/google.rpc.Help","links":[{"url":"https://cloud.google.com/resource-manager/reference/rest/v1/projects"}]}]}}
+[debug] [2023-12-19T08:06:18.542Z] FirebaseError: HTTP Error: 400, Request contains an invalid argument.
+    at module.exports (C:\Users\Admin\AppData\Roaming\npm\node_modules\firebase-tools\lib\responseToError.js:47:12)
+    at Request._callback (C:\Users\Admin\AppData\Roaming\npm\node_modules\firebase-tools\lib\api.js:41:35)
+    at Request.self.callback (C:\Users\Admin\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\request\request.js:185:22)
+    at Request.emit (node:events:527:28)
+    at Request.emit (node:domain:475:12)
+    at Request.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\request\request.js:1154:10)
+    at Request.emit (node:events:527:28)
+    at Request.emit (node:domain:475:12)
+    at IncomingMessage.<anonymous> (C:\Users\Admin\AppData\Roaming\npm\node_modules\firebase-tools\node_modules\request\request.js:1076:12)
+    at Object.onceWrapper (node:events:641:28)
+    at IncomingMessage.emit (node:events:539:35)
+    at IncomingMessage.emit (node:domain:475:12)
+    at endReadableNT (node:internal/streams/readable:1345:12)
+    at processTicksAndRejections (node:internal/process/task_queues:83:21)
+[error] 
+[error] Error: Failed to create project. See firebase-debug.log for more info.
+[debug] [2023-12-19T08:06:43.881Z] ----------------------------------------------------------------------
+[debug] [2023-12-19T08:06:43.882Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Admin\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-12-19T08:06:43.883Z] CLI Version:   10.9.2
+[debug] [2023-12-19T08:06:43.883Z] Platform:      win32
+[debug] [2023-12-19T08:06:43.883Z] Node Version:  v16.16.0
+[debug] [2023-12-19T08:06:43.884Z] Time:          Tue Dec 19 2023 13:36:43 GMT+0530 (India Standard Time)
+[debug] [2023-12-19T08:06:43.884Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-12-19T08:06:43.893Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-12-19T08:06:43.893Z] > authorizing via signed-in user (baktha88@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  E:\Other Projects\git-repo\nemosis_website\nemosis_website
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2023-12-19T08:07:00.435Z] > refreshing access token with scopes: []
+[debug] [2023-12-19T08:07:00.436Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
+ <request body omitted>
+[debug] [2023-12-19T08:07:00.782Z] <<< HTTP RESPONSE 200 {"cache-control":"no-cache, no-store, max-age=0, must-revalidate","expires":"Mon, 01 Jan 1990 00:00:00 GMT","pragma":"no-cache","date":"Tue, 19 Dec 2023 08:06:59 GMT","content-type":"application/json; charset=utf-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","server":"scaffolding on HTTPServer2","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","alt-svc":"h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000","accept-ranges":"none","transfer-encoding":"chunked"}
+[debug] [2023-12-19T08:07:00.822Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects pageSize=100
+[debug] [2023-12-19T08:07:02.391Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects 200
+[debug] [2023-12-19T08:07:02.392Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects [omitted]
